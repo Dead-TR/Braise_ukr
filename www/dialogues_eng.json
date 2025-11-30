@@ -1,0 +1,666 @@
+{
+  "Zone01": "- The Edge of the Forest -",
+  "Zone02": "- The Temple -",
+  "Zone03": "- The River -",
+  "Zone04": "- The Dungeon -",
+  "Zone05": "- The Dragon's Peak -",
+  "Zone06": "- The Dragon's Valley -",
+  "Zone07": "The Underwood",
+  "Zone08": "The Fisherman's House",
+  "Zone09": "The Alchemist's Lair",
+  "Zone10": "The Temple Basement",
+  "Zone11": "The Cult's Hideout",
+  "intro00": "CONTROLLERS",
+  "intro01": "For centuries, humans waged war against dragons out of greed for conquest and wealth.",
+  "intro02": "The best among these hunters were elevated to the rank of Champions and worshipped like gods.",
+  "intro03": "But humanity came to understand that dragons governed the balance of the earth and life itself. They could not continue warring selfishly without causing droughts, famines, and other plagues... So the conflicts gradually ceased.",
+  "intro04": "In their great wisdom, the dragons accepted peace. Some Champions realized the harm caused by these centuries of war and, weary of that life, laid down their weapons. In search of redemption, some worked for peace by forming [i][b]the Draconic Order.[/b][/i]",
+  "intro05": "But others lived only for war and vengeance. They often fought their final battle.\nThe era of Champions faded, leaving humanity with a bitter legacy.",
+  "intro06": "In a valley bathed in this new era of peace, a young woman returns to her homeland. She comes to honor the past and understand her heritage.",
+  "outro01": "A group of warriors entered the pit, their heavy steps echoing the clinking of metal from their armor and weapons, leaving no doubt about their identity. Comprised mostly of former repentant champions, their imposing stature commanded respect. It was the Draconic Order.",
+
+  "outro02": "Put the champion in chains ! You are accused of disturbing the peace and threatening the balance ! And this Alchemist, for acting in the name of the Order and for using forbidden sciences!",
+
+  "outro03": "Our hero, accompanied by her grandfather, were mere spectators of the scene, powerless. They watched the Order leave with deep sadness. They knew now that there was nothing more they could do to help her. Only her banishment, a journey to uncharted lands, might help her find herself.",
+
+  "outro03,5": "The champion was taken away by the Order, her head lowered, offering no glance to her family... Her punishment would be exile.",
+
+  "outro04": "The Order returned the temple's trophies to the dragon. The dragon, in turn, would regain its strength and reign over its valley for a long time to come.",
+
+  "usefull": "[b][/b],[i][b][/b][/i],[i][/i],\n,\"\"",
+  "dialogues01": "[b]HERO[/b]: The valley looks so peaceful. Is this where it all happened?",
+  "dialogues02": "[b]GRANDPA[/b]: Yes, everything points to her coming here to face the dragon. Since then, no one has seen her again... her sword was found a few steps away... [i][b]broken[/b][/i]... I fear the worst...",
+  "dialogues02,5": "[b]GRANDPA[/b]: What the?!?! Do you hear that?",
+  "dialogues03": "[b]HERO[/b]: The dragon?? What's wrong with him? He seems enraged!",
+  "dialogues04": "[b]GRANDPA[/b]: Flames are rising to the north!",
+  "dialogues05": "[b]HERO[/b]: I’ll go check it out, [i][b]maybe someone needs help![/b][/i] Get to safety, Grandpa. It’s too dangerous here.",
+  "dialogues06": "[b]GRANDPA[/b]: Be careful, my little girl. Take your grandmother’s sword; it will be useful in the valley.",
+
+  "dialogues07": "[b]ALCHEMIST[/b]: Ow, my head! An attack... flames everywhere... [i][b]the dragon[/b][/i]! When I came to, I was trapped under these debris! Thank you for pulling me out...",
+  "dialogues08": "[b]HERO[/b]: Easy now, you're lucky to have made it out in one piece. What's your name?",
+  "dialogues09": "[b]ALCHEMIST[/b]: I... I... I don’t remember... I... I think I’m an alchemist...",
+  "dialogues10": "[b]HERO[/b]: *He took a serious blow to the head.* Tell me, Alchemist, do you have anything in your potions to put out these flames? We need to prevent a forest fire.",
+  "dialogues11": "[b]ALCHEMIST[/b]: I don’t remember... check what's left of my caravan.",
+  "dialogues12": "[b]ALCHEMIST[/b]: Did you find what you were looking for?",
+  "dialogues13": "[b]HERO[/b]: How are you feeling, Alchemist?",
+  "dialogues14": "[b]ALCHEMIST[/b]: I'm slowly regaining my senses... But my head!! I’m trying to piece things together, but my memory is failing me... Where am I from? Where was I going?",
+  "dialogues15": "[b]HERO[/b]: Take your time to recover; it’ll come back to you. I’ll check if the dragon has caused any damage nearby. Be careful while I’m gone, I’ll come back to see you.",
+  "dialogues16": "[b]ALCHEMIST[/b]: *Hmm, that sword...*",
+  "dialogues17": "[b]ALCHEMIST[/b]: I need to sort out this mess. Maybe it will help me regain my memory.",
+
+  "dialogues18": "[b]HERO[/b]: Since the peace with the Dragons, temples like this have been vandalized. This is one of the last [i][b]Champion[/b][/i] statues still standing. Though it represents a dark era, it’s magnificent... Sorry I didn’t come sooner, Grandma... *moment of reflection*",
+  "dialogues18,5": "[b]HERO[/b]: Are you aware that a dragon is ravaging the valley? It’s not safe to stay here...",
+  "dialogues19": "[b]SCULPTOR[/b]: And who will look after my champion if I abandon the site?!... But... But... That sword! You’d better have a good reason for carrying it, or you’ll get a hammer to the head!",
+  "dialogues20": "[b]HERO[/b]: It’s my grandmother’s sword. I’m here to understand what happened.",
+  "dialogues21": "[b]SCULPTOR[/b]: I heard she went into the valley... If the dragon is flying overhead today, you know as well as I do what that means for your grandmother... I’m sorry, my dear.",
+  "dialogues22": "[b]HERO[/b]: Yes, I know, but I want to be sure. It’s very strange—dragons don’t act like this. They’re supposed to embody wisdom and never attack like this... Something unusual is happening in this valley... Has anyone witnessed their confrontation?",
+  "dialogues23": "[b]SCULPTOR[/b]: There are those thugs lurking around here, pretending to be [i][b]the Draconic Order[/b][/i]. But they’re nothing more than common charlatans... I'm sure they're the ones sabotaging my worksite! If only I could get to their dungeon to see what they're up to!",
+  "dialogues24": "[b]HERO[/b]: If what you're saying is true, they won’t stand a chance if the real Order finds out. And what’s stopping you from going to their dungeon?",
+  "dialogues25": "[b]SCULPTOR[/b]: A bottomless moat separates us from their dungeon... But I’ve seen one of those hooded figures levitate across it! Sorcery!",
+  "dialogues26": "[b]HERO[/b]: I’ll try to get there. Maybe I’ll find answers to my questions.",
+  "dialogues27": "[b]SCULPTOR[/b]: My apprentice will help you. And here, take this recipe I found on the site; one of those fools must have dropped it...",
+  "dialogues28": "[b]HERO[/b]: A cifor recipe? What’s that...",
+  "dialogues29": "[b]SCULPTOR[/b]: You’ve noticed the site is in terrible shape... I’m certain it’s because of this recipe. They’re sabotaging my site with it!",
+  "dialogues28,5": "[b]HERO[/b]: This 'Order' really wants to erase the champion’s statue from sight... It’s understandable given what she represents, but their methods are extreme...",
+  "dialogues30": "[b]SCULPTOR[/b]: Understandable? Everyone’s entitled to their opinion on that! Go see my apprentice if you want to head to the dungeon.",
+
+  "dialogues31": "[b]APPRENTICE[/b]: The old dungeon, their hideout? I've been there before, there’s nothing there... but I can help you get there if you want. In exchange, can you give me a hand with my potion?",
+  "dialogues32": "[b]HERO[/b]: What’s this potion you’re talking about?",
+  "dialogues33": "[b]APPRENTICE[/b]: I’m working on a duplication potion! I could duplicate myself, and the site would be finished in no time! But my measurements aren’t precise... I can only create crude statues...",
+  "dialogues34": "[b]HERO[/b]: How can I help?",
+  "dialogues35": "[b]APPRENTICE[/b]: You’ll need to prepare the base of the potion, please. I’ve written it down on this recipe. And take [i][b]the bucket and the shovel[/b][/i] behind you—they’ll come in handy.",
+  "dialogues36": "[b]APPRENTICE[/b]: Great, thanks! The base is ready. I just finished preparing the last ingredient; can you put it into the cauldron for me, please?",
+  "dialogues37": "[b]APPRENTICE[/b]:",
+  "dialogues38": "[b]APPRENTICE[/b]: There’s one more thing before I help you get to the dungeon... For the potion to brew properly, we need to heat the cauldron to a very high temperature—blue flames would be perfect!",
+  "dialogues39": "[b]APPRENTICE[/b]: Thank you so much, you’ve been a great help. As promised, take this [i][b]failed duplication potion[/b][/i] to duplicate yourself into a statue! It will help you get into the dungeon.",
+  "dialogues40": "[b]APPRENTICE[/b]:",
+
+  "dialogues41": "[b]HERO[/b]: A partially burned scroll reads: \"The leader has returned from the pit; things didn’t go as planned... but he brought back the Champion’s key, so we can access her cache and restore her trophies!\"",
+  "dialogues42": "[b]HERO[/b]: So there’s a leader behind this \"order\"... What was he doing at the pit? This doesn’t bode well...",
+  "dialogues43": "[b]HERO[/b]: At least with Grandma’s key, I can access her cache. But first, I need to get out of here!",
+  "dialogues44": "[b]HERO[/b]: The stones are arranged strangely here... This one can be moved... It revealed a keyhole!",
+  "dialogues45": "[b]SCULPTOR[/b]: Hey, what are you doing down there? There’s nothing to see... That’s the Champion’s cache; she always kept her key with her...",
+  "dialogues46": "[b]HERO[/b]: Placing the cauldron in blue flames? Where am I going to find that...",
+  "dialogues47": "[b]SCULPTOR[/b]: So, did you find out what those thugs were plotting?",
+  "dialogues48": "[b]HERO[/b]: They had the key to my grandmother’s cache...",
+  "dialogues49": "[b]SCULPTOR[/b]: If the \"order\" is behind her disappearance, I’ll deal with them personally!",
+
+  "dialogues50": "[b]HERO[/b]: Your potion worked! You managed to duplicate yourself!",
+  "dialogues51": "[b]APPRENTICE[/b]: Yeah, it’s not bad... but my double isn’t very bright... It’s useless for advancing the site! I’m working on a new potion—a potion of intelligence! Haha!",
+
+  "dialogues52": "[b]HERO[/b]: *Astonished* I knew Grandma was a famous Champion, but seeing all these dragon bones... It’s chilling... How many did she slay?",
+  "dialogues53": "[b]GRANDPA[/b]: Your Grandma had an unyielding hatred for dragons... I always hoped she’d come to her senses now that the wars are over.",
+  "dialogues53,1": "[b]GRANDPA[/b]: But she could no longer live a normal life. I often found her alone by the fire, staring blankly... She wasn’t really there anymore.",
+  "dialogues54": "[b]GRANDPA[/b]: She always dreamed of battle.",
+  "dialogues55": "[b]GRANDPA[/b]: One day, she left.",
+  "dialogues56": "[b]HERO[/b]: I’m sorry she left, Grandpa... But I want to keep following her trail...",
+  "dialogues56,5": "[b]GRANDPA[/b]: I see that look in your eyes—is something troubling you?",
+  "dialogues56,7": "[b]HERO[/b]: \"The Draconic Order\"... They wanted to return Grandma’s trophies to the dragons, but there’s something else. Their leader also has his secrets—he had Grandma’s key, and... \"his plan failed\"... I need to find out what happened at the pit. Do you know where I can find him?",
+  "dialogues57": "[b]GRANDPA[/b]: No, I don’t know much about the \"order\", except that they just stand there silently... But I might have a lead for you. Your Grandma talked about adding more enchantments to her sword; she was obsessed with gaining power. She must have gone to see that traveling alchemist.",
+  "dialogues58": "[b]HERO[/b]: Yes, I met him. He had a head injury... Maybe he remembers something now. I’d better go see him...",
+  "dialogues59": "[b]GRANDPA[/b]: Did you go back to see the alchemist? Be careful, my dear.",
+  "dialogues60": "[b]HERO[/b]: I knew Grandma was a famous Champion, but seeing all these dragon bones... It’s chilling... How many did she slay?",
+
+  "dialogues61": "[b]FOX[/b]: This is a disaster! Have you seen the Miller? I’m worried...",
+  "dialogues62": "[b]HERO[/b]: No, I just arrived in the valley. Why do you need her?",
+  "dialogues63": "[b]FOX[/b]: It’s a disaster! I had a meeting with her for the grain delivery as usual, but she didn’t show up.",
+  "dialogues64": "[b]HERO[/b]: Where is she? I can try to check on her.",
+  "dialogues65": "[b]FOX[/b]: She’s on the other side of the river, but the dragon burned the bridge! Why is he so angry? He was so calm... It’s a disaster, I’m telling you! Here, take the key to her gate if you manage to cross.",
+  "dialogues66": "[b]FOX[/b]: OH, you managed to cross! Could you check on the Miller, please?",
+  "dialogues67": "[b]FOX[/b]: OH, she’s sick? Can you help her recover?",
+  "dialogues68": "[b]FOX[/b]: Thank you so much, Hero! Thanks to you, business can resume.",
+  "dialogues69": "[b]HERO[/b]: I’ll try to cross the river and visit the Miller.",
+  "dialogues70": "[b]FOX[/b]: Thank you so much, Hero!",
+  "dialogues71": "[b]SCULPTOR[/b]: She had quite the collection!",
+
+  "dialogues72": "[b]HERO[/b]: Hello! The fox is worried and asked me to check on you...",
+  "dialogues73": "[b]MILLER[/b]: Hello, Hero! Yes, I’m not feeling well. Could you prepare my favorite dish? It’s the best remedy to perk me up, but I’m too weak to make it.",
+  "dialogues74": "[b]HERO[/b]: Of course! I’m not much of a cook, but I’ll give it a try. What would you like?",
+  "dialogues75": "[b]MILLER[/b]: It’s umami trout. Here, I wrote down the recipe.",
+  "dialogues76": "[b]MILLER[/b]: You’ll need this too. You’ll find all the fishing info in my notebook by the bed and on the fishing board at the entrance.",
+  "dialogues77": "[b]HERO[/b]: I think I have everything I need. I’ll hurry back, see you soon!",
+  "dialogues78": "[b]MILLER[/b]: Thank you, Hero! I’ll stay in bed while I wait.",
+  "dialogues79": "[b]HERO[/b]: Here’s your dish!",
+  "dialogues80": "[b]MILLER[/b]: Thank you, Hero! Just the smell is making me feel better! NOM NOM NOM.",
+  "dialogues81": "[b]HERO[/b]: Oh wow! You’re already up and about—it’s quite the remedy!",
+  "dialogues82": "[b]MILLER[/b]: Yes, I feel fantastic! And you prepared it so well—thank you again!",
+  "dialogues83": "[b]MILLER[/b]: Hey, I see you’ve gotten the hang of fishing! The fish in this river are unusual, and there’s a rumor of a legendary fish! I’d bet it’s the one that took off with my favorite rod...",
+  "dialogues84": "[b]HERO[/b]: A legendary fish? This river is full of surprises! And there are already so many species listed on the fishing board...",
+  "dialogues85": "[b]MILLER[/b]: Yes, but without my favorite rod, we can’t catch the big ones... Come back later, and we’ll find a solution.",
+  "dialogues86": "[b]MILLER[/b]: You can let the fox know I’m fine, no need to worry. *I need to fix this mill; something’s messed it up...*",
+  "dialogues86,1": "[b]MILLER[/b]: *I need to fix this mill; something’s messed it up...*",
+
+  "dialogues87": "[b]FOX[/b]: Oh, she was sick? Thank you, Hero, for helping her!",
+  "dialogues87,1": "[b]FOX[/b]: Looks like there’s a lot of activity—are we having a fishing contest?",
+
+  "dialogues88": "[b]HERO[/b]: Hello! I just came across some cultists—they’re looking for someone around here... But tell me, do you know anything about the \"order\", the dragon, or the Champion?",
+  "dialogues89": "[b]MILLER[/b]: Oh, I stay out of those matters—I’ve got enough to do with the mill. But it’s true I’ve overheard the \"order\" talking about a witness, and they’ve set up to fish... It’s odd...",
+  "dialogues89,5": "[b]MILLER[/b]: Hmm, now that I think about it, it might be the legendary fish I told you about. Maybe that’s what they’re after.",
+  "dialogues90": "[b]HERO[/b]: How can I find it? The whole \"order\" is already after it!",
+  "dialogues91": "[b]MILLER[/b]: Well, you know, my favorite rod already hooked it once, and it’s not far... It’s stuck in the mill! Unfortunately, it messed up the mechanism. If you help me fix it, the rod will surface, and it’s yours!",
+  "dialogues92": "[b]HERO[/b]: Well, deal! What do we need to repair it?",
+  "dialogues93": "[b]MILLER[/b]: I’ll need a part to repair the mill! Before leaving, the lumberjack gave me this piece of wood and said to look under the slates, but I have no idea what he meant... Here, take it—it might make sense to you. The sawmill is behind the dungeon.",
+  "dialogues94": "[b]HERO[/b]: I should manage—I'll be back soon with the spare part!",
+  "dialogues94,5": "[b]MILLER[/b]: You’ve got the piece of wood the lumberjack gave me, right? He said to look under the slates, but I don’t understand... The sawmill is behind the dungeon.",
+  "dialogues95": "[b]MILLER[/b]: Great! You found the part! Could you fit it into the millstone mechanism, please?",
+  "dialogues96": "[b]MILLER[/b]: Excellent! You did it! Let’s go check outside!",
+  "dialogues97": "[b]MILLER[/b]: The mill is back in action! And look! My favorite rod is free again!",
+  "dialogues98": "[b]MILLER[/b]: I suggest you complete the first part of the fishing board first. You can take it after that.",
+  "dialogues99": "[b]MILLER[/b]: With my favorite rod, you can now fish [i][b]ALL[/b][/i] the local fish! Once you’ve completed the fishing board, you’ll have a chance to catch the legendary fish. Good luck!",
+
+  "dialogues100": "[b]HERO[/b]: Uh, hello? Are you the legendary fish guarding this river?",
+  "dialogues101": "[b]LEGENDARY FISH[/b]: That’s quite a grandiose title... I’m just 1,500 years old, gifted with divine wisdom, and the fastest fin in the region! Quite modestly, of course... But you got me with my guilty pleasure! Lava worms are so delicious!",
+  "dialogues102": "[b]HERO[/b]: You’re lucky it was me who caught you, There are a lot of shady people looking for you.... Have you seen anything unusual? About the dragon or the Champion?",
+  "dialogues103": "[b]LEGENDARY FISH[/b]: Yes, Hero. I saw the battle that raged in the pit... I’ve seen wars before, but that fight... it was unlike anything I’d ever witnessed...",
+  "dialogues104": "[b]HERO[/b]: Please, tell me everything, fish of legend.",
+  "dialogues105": "[b]LEGENDARY FISH[/b]: I was in a corner of the pit that connects to the river, peacefully enjoying my lava worm! I had a front-row seat.",
+  "dialogues106": "[b]LEGENDARY FISH[/b]: I saw the Champion enter the pit, weapon in hand. The dragon didn’t seem surprised to see her, perhaps resigned to humanity’s greed... The Champion approached slowly, savoring the moment... The dragon, on the other hand, was on guard. The tension between them was palpable. The first blow came in a flash!",
+  "dialogues107": "[b]LEGENDARY FISH[/b]: The battle raged on, the dragon’s majestic movements transforming into fiery and magma-fueled assaults. The Champion, aided by her powerful enchantments, parried and deflected in bursts of magic. Thanks to her superhuman agility, she struck with her sword as swiftly as she repositioned for her next move.",
+  "dialogues108": "[b]LEGENDARY FISH[/b]: But something was off about the fight. I’d never seen anything like it—every sword strike seemed to hurt her! It was as if each blow weakened her further...",
+  "dialogues109": "[b]LEGENDARY FISH[/b]: The fight dragged on for what felt like an eternity, both the Champion and the dragon pushed to their limits. Drawing on her last reserves, the Champion attempted a final strike. She charged the dragon, her body instinctively dodging and parrying its attacks with flawless precision. Any misstep could have been her downfall. When she saw an opening, she lunged, and her sword struck the dragon’s heart, breaking in a blinding flash...",
+  "dialogues109,1": "[b]LEGENDARY FISH[/b]: ...A piece of the sword was flung out of the pit—the one you now hold...",
+  "dialogues109,5": "[b]LEGENDARY FISH[/b]: ...A piece of the sword was flung out of the pit—the one you now hold...\n... and the Champion vanished.",
+  "dialogues110": "[b]HERO[/b]: Vanished? How is that possible? The further I go in this story, the more questions I have...",
+  "dialogues111": "[b]LEGENDARY FISH[/b]: I don’t know, but if the \"order\" is after me, one of them must have seen me...",
+  "dialogues112": "[b]HERO[/b]: I have reason to believe the \"order\" leader was there since he recovered the key she always carried...",
+  "dialogues113": "[b]LEGENDARY FISH[/b]: I can’t help you further, Hero... Oh, wait, I forgot! Here, someone dropped this into the water... Now, back to my legendary business! CIAO!",
+  "dialogues114": "[b]HERO[/b]: Thanks for your help, legendary fish.",
+  "dialogues115": "[b]MILLER[/b]: Wow, you managed to catch the legendary fish—bravo, Hero! It was magnificent, did you see its colors?! Anyway, I’ve got grain to mill.",
+  "dialogues116": "[b]HEROINE[/b]: Curse it... Each strike wounds the wielder... If the sword breaks... fusion of bodies... \n...\n...\nFUSION OF BODIES???",
+  "dialogues117": "[b]HEROINE[/b]: NAME OF &#ù%*$çé!!!\nThe dragon and Grandma fused!!!\nHow could such a thing happen?!\nIt says the effect can be reversed by reassembling the sword. This is madness, but I have to try!",
+  "dialogues118": "[b]FOX[/b]: Oh, hi! I'm not available, I'm really too busy waiting here, sorry.",
+  "dialogues119": "[b]HERO[/b] : YOU?! I know you're behind all this! You fused my grandmother with the dragon, you madman! The true order is on its way to the valley, you will pay for your actions!",
+
+  "dialogues120": "[b]ALCHEMIST[/b] : I... I'm sorry, Hero! I wanted the champion to understand the harm she had done to the dragons, but I was overwhelmed by events! I was a coward, but you saved me, and I came to my senses. Let me accompany you, you'll need help to gather the sword!",
+
+  "dialogues121": "[b]HERO[/b] : I don't really have a choice... alone against the dragon, I don't stand a chance...",
+  "dialogues122": "[b]HERO[/b]: We did it! Grandma, you're safe and sound! ... Grandma?!",
+  "dialogues123": "[b]GRANDMA[/b]: Give me my sword so I can finish it off!",
+  "dialogues124": "[b]HERO[/b]: But Grandma, we must stop this slaughter. The war is over!",
+  "dialogues125": "[b]GRANDMA[/b]: SILENCE!!! It will never be over as long as those monsters exist!",
+
+  "dial_help_01": "[b]FOX[/b]: Did you talk to everyone and check the 'details' of your items if they have any?",
+
+  "tuto01": "You’ve just obtained your first item!\n\nYou can view it in your inventory by pressing \"Y\" (controller) or \"SPACE\" (keyboard) and access the options \"use,\" \"combine,\" or \"details.\"",
+
+  "tuto02": "- The action [i][b]\"use\"[/b][/i] can only be performed when the character has the interaction icon above their head (exclamation icon).\n\n- The option [i][b]\"combine\"[/b][/i] allows you to combine 2 items to create a new one.\n\n-[i][b]\"details\"[/b][/i] lets you learn more about your items, how to use them, what they can be combined with, and the list of components if it’s a recipe or a blueprint.",
+
+  "tuto03": "Your Grandpa left a [i][b]flask[/b][/i] on the board. Head towards it to interact with the [i][b]exclamation point[/b][/i]:\n\n\n\n\nThis indicates a [i][b]point of interest[/b][/i]: dialogue, reflection, item to collect, or to [i][b]use[/b][/i]!",
+
+  "tuto05": "To help this man, it’s time to use your first item!\n\nGo near him, and when the exclamation point is above your head, use your sword to clear away the debris!",
+
+  "tuto06": "You are about to make your first combination!\n\nSelect the action \"combine\" on your flask and the potion.\n\n\n\n\n\n\n\n\nAnd there you go! A new item is created! You can try using it in the center of this furnace!",
+
+  "tuto07": "Well done, you’ve completed this tutorial and obtained a [i][b]dragon’s breath[/b][/i].\n\nDragon’s breaths will allow you to access the [i][b]Dragon’s Peak[/b][/i] south of the Valley and confront the dragon.\n\n\n\n\n\n\n\n\n\nExplore the map thoroughly to collect them all! (press \"back\" or \"M\" to open the map)",
+
+  "tuto08": "One last thing: by talking to the Fox in the Kiosk, you’ll be able to save or get help.\n\n\n\n\n\n\n\nNow you know everything you need to know.\n\n[i][b]Good luck, Hero.[/b][/i]",
+
+  "tuto09": "Since some of you are getting stuck in the dungeon, I’m leaving my notes here. Seems like I’m the only one who takes them when the boss gives instructions!! Don’t leave them lying around! Our hideout must remain secret!\n\n\nNOTICE\n\n\n\n\n\n\n!!!GRIND MATERIALS INTO POWDER WITH THE MORTAR BEFORE PUTTING THEM IN THE FIRE!!!",
+
+  "tuto10": "Fishing tips:\n\nEach species only bites certain [i][b]baits[/b][/i] and in specific [i][b]fishing zones[/b][/i].\n\nYou can find [i][b]baits[/b][/i] by digging with the [i][b]shovel[/b][/i]:\n\n- Earthworms, the most common bait, are easy to find.\n- Centipedes are often found at the base of trees and under dead leaves.\n- Fireworms appeared after the dragon attacks.\n\n[i][b]Fishing zones[/b][/i] are indicated on the fishing board: riverside plants, rocks in the river, the waterfall, and so on...",
+
+  "tuto11": "[i][b]Sword Curse Recipe[/b][/i]\n\nEach strike also wounds the sword bearer.\n\nSide effects: nausea, lunacy.\n\nSpecial case: if the sword breaks in the target’s heart: [i][b]body fusion[/b][/i].\n\nTo reverse the effect: [i][b]reassemble the sword[/b][/i].",
+
+  "txt_hero01": "\n\n[i][b]\"DRAGON VALLEY\"[/b][/i]",
+
+  "txt_hero02": "[i]There’s also a poster[/i]:\n\n \"Make peace with the Dragons by returning your trophies to them!\"",
+
+  "txt_hero03": "What got into that Dragon... I need to put out this fire quickly!",
+
+  "txt_hero04": "\nHey, it’s Grandpa’s [i][b]flask[/b][/i]. I’ll put it in my [i][b]bag[/b][/i].",
+
+  "txt_hero05": "You can read the titles of various books and burnt pages... \"Basics on Potions,\" \"Element Chart,\" \"Occult Science...\"!",
+
+  "txt_hero06": "\n\nThere! Looks like frost powder! This should do the trick.",
+
+  "txt_hero07": "I should help this poor man before rummaging through his belongings.",
+
+  "txt_hero08": "These stones look like [i][b]switches[/b][/i].",
+
+  "txt_hero08,1": "These stones... look like [i][b]switches[/b][/i].",
+
+  "txt_hero08,2": "These stones... they look like [i][b]switches[/b][/i].",
+
+  "txt_hero09": "These statues are quite useful..",
+
+  "txt_hero09,1": "These statues are quite useful...",
+
+  "txt_hero09,2": "These statues are quite useful....",
+
+  "txt_hero10": "Ugh, I’m trapped! Hmm, this door doesn’t look very sturdy...",
+
+  "txt_hero11": "A shard of the magical bridge, this could be useful.",
+
+  "txt_hero12": "Oh no! I went a bit too hard, the bridge is destroyed! I’ll have to find another way out.",
+
+  "txt_hero13": "This stone can be removed!",
+
+  "txt_hero14": "It looks like the frame of a mirror, but the mirror is missing...",
+
+  "txt_hero15": "It seems like this light play will serve a purpose...",
+
+  "txt_hero15,5": "I need to bring light into the room now.",
+
+  "txt_hero16": "Some metals are stored here, there’s a note.",
+
+  "txt_hero17": "A pile of slates, some form symbols.",
+
+  "txt_hero18": "There’s a hollow, looks like a receptacle for a circular object.",
+
+  "txt_hero19": "A pile of broken slates, some are shaped into circles!",
+
+  "txt_hero20": "Just slate debris, I’ve taken what I could.",
+
+  "txt_hero21": "There’s already a slate fitted into this one.",
+
+  "txt_hero21,1": "There’s already a slate fitted into this one...",
+
+  "txt_hero22": "That’s good for this one, the slate is properly placed.",
+
+  "txt_hero23": "There’s a notch for a triangular object.",
+
+  "txt_hero24": "I should head north, maybe someone needs help.",
+
+  "txt_hero25": "This metal door is locked. There are color indications painted on it...",
+
+  "txt_hero26": "The back of the cell is collapsed, but vines block the way.",
+
+  "txt_hero27": "The chest is locked. It looks like you can inlay spherical objects into it.",
+
+  "txt_hero28": "Debris is blocking the way. I can feel air passing through, this hallway leads outside...",
+
+  "txt_hero29": "These wood scraps block access to the back of the statue...",
+
+  "txt_hero30": "The ground has a peculiar color here.",
+
+  "txt_hero30,1": "The ground has a peculiar color here...",
+
+  "txt_hero31": "This algae dances with the current.",
+
+  "txt_hero32": "I need to find a way to retrieve this herb pouch...",
+
+  "txt_hero33": "A cauldron is placed on the table.",
+
+  "txt_hero34": "I’ve already added the water.",
+
+  "txt_hero35": "The base is ready.",
+
+  "txt_hero36": "The preparation for the duplication potion is complete!",
+
+  "txt_hero37": "It worked! The raven dropped the infusion pouch!",
+
+  "txt_hero38": "These flames block the access to the pit. I need to gather all the [i][b]dragon's breaths[/b][/i] to pass.",
+  "txt_hero39": "The cauldron should stay nice and warm here.",
+
+  "txt_hero40": "I can’t do that while the fire is lit.",
+
+  "txt_hero41": "Let’s see if I place it like this...",
+
+  "txt_hero42": "It’s blinking faster and faster, I’d better take cover!",
+
+  "txt_hero43": "Let’s see if I place it like this...",
+
+  "txt_hero44": "A pedestal appeared... but the notch is blocked. Maybe there’s something else to do...",
+
+  "txt_hero45": "There’s nothing interesting...",
+
+  "txt_hero46": "Oh, seeds!",
+
+  "txt_hero47": "This looks like the place shown in PUZZLE - I -",
+
+  "txt_hero47,2": "This looks like the place shown in PUZZLE - III -",
+
+  "txt_hero47,3": "",
+
+  "txt_hero47,4": "",
+
+  "txt_hero48": "Everything has collapsed here...",
+
+  "txt_hero49": "This moat is dizzying...",
+
+  "txt_hero50": "Something changed, there’s magic in the air.",
+
+  "txt_hero51": "Braziers are lined up here. Maybe there’s something to do with them.",
+
+  "txt_hero52": "The dragon must have heard the explosion, I shouldn’t stay around here.",
+
+  "txt_hero53": "Did that open something?",
+
+  "txt_hero54": "The magical bridge is broken now...",
+
+  "txt_hero55": "The bridge has been reduced to ashes.",
+
+  "txt_hero56": "That tree must have been beautiful...",
+
+  "txt_hero57": "Cultists are approaching!",
+
+  "txt_hero57,1": "He’s gone...\n...\n...\nI hear footsteps!",
+
+  "txt_hero58": "They didn’t see me...",
+
+  "txt_hero59": "Hmm, a witness by the river... A witness to what? I need to check it out!",
+
+  "txt_hero60": "They’re already gone...",
+
+  "txt_hero61": "There’s a formation of small crystals, they look different from the others. Hmm! They smell amazing!",
+
+  "txt_hero62": "Darn, too fast! The bait came off.",
+
+  "txt_hero63": "Darn, too slow! The bait was eaten.",
+
+  "txt_hero64": "Off you go, back into the water.",
+
+  "txt_hero65": "I can’t dig here.",
+  "txt_hero66": "That’s the fish for the Miller!",
+
+  "txt_hero67": "Just a simple chimney.",
+
+  "txt_hero68": "It looks cooked!",
+
+  "txt_hero69": "It’s not biting! And the bait fell off!",
+
+  "txt_hero70": "The mechanism looks broken.",
+
+  "txt_hero71": "The gate is locked.",
+
+  "txt_hero72": "I should leave it alone.",
+
+  "txt_hero73": "Hey, the cultist dropped something.",
+
+  "txt_hero74": "This matches the color code from the note.",
+
+  "txt_hero75": "It’s locked, and there’s a symbol on the lock with 4 colored spheres...",
+
+  "txt_hero76": "There are strange symbols on this piece of paper...",
+
+  "txt_hero77": "Now that I’ve gathered the 5 dragon’s breaths, the passage should clear, right?",
+
+  "txt_hero78": "There’s a whole bunch of potions and alchemical powders here.",
+
+  "txt_hero79": "All these scrolls deal with scientific research: \"pyrotechnics and colored flame,\" \"light spectrum\"... hmmm",
+
+  "txt_hero80": "Something’s missing from this mechanism...",
+  "txt_hero81": "By the %*ù^)$!!\n *calm down* \nI only have one shot, if you can hear me : HOLD ON GRANDMA!",
+  "txt_hero82": "Wow! What is that huge shadow?! It must be him!",
+
+  "menu_fight01": "Aim",
+
+  "menu_fight07": "Throw",
+
+  "menu_fight02": "Potions",
+
+  "menu_fight03": "Combine",
+
+  "menu_fight04": "Ether",
+
+  "menu_fight05": "Frost X",
+
+  "menu_fight06": "Freeze",
+
+  "menu_fight08": "Freeze",
+
+  "txt_enchant01": "[i][b]Help me!!![/b][/i]",
+
+  "txt_enchant02": "[i][b]Help!!![/b][/i]",
+
+  "txt_enchant03": "[i][b]Get this beam off me![/b][/i]",
+
+  "txt_enchant04": "I'll immobilize him before he attacks!",
+
+  "txt_enchant05": "Now's the time!",
+
+  "txt_apprenti01": "A little bit of this, a pinch of that...",
+
+  "txt_apprenti02": "You got the herb pouch!!! Thank you so much. Could you also put it in the cauldron, please?",
+
+  "txt_apprenti03": "Everything is written on the recipe. Could you put it all in the cauldron on the table behind you, please? And don’t forget the bucket and the shovel!",
+
+  "txt_apprenti04": "Set the cauldron to 70 degrees, done. Now we just have to wait half a day...",
+
+  "txt_apprenti05": "Hey! You filthy beast!!",
+
+  "txt_apprenti06": "These herbs are very rare! We must get them back!",
+
+  "txt_sculpt01": "Grr... That Dragon Cult... grr...",
+
+  "txt_sculpt02": "Grr... Those thugs... grr...",
+
+  "txt_sculpt03": "She had quite the collection!",
+
+  "txt_cultiste_oiseau": "You want to feed the birds? Here you go.",
+
+  "txt_cultiste_oiseau02": "You still have the seeds I gave you...",
+
+  "txt_cultiste_temple_01,5": "What are you looking at?",
+
+  "txt_cultiste_temple_02": "*Where did I put that recipe? I was sure I put it in this pocket... oh no, a hole!*",
+
+  "txt_cultiste_repere_01": "Defending the dragons' cause, fine! But I didn’t think it would go this far! And it seems the real Order has heard about us...",
+
+  "txt_cultiste_repere_02": "This doesn't look good! Here, take this, it might help you...",
+  "txt_cultiste_repere_03": "...\n*She didn’t see the scroll, phew...*\n...",
+
+  "txt_cultiste_peche01_01": "The real Draconic Order was spotted heading toward the valley!!! Here, hero! This should help you.",
+
+  "txt_cultiste_peche01_02": "I’m just going to fish some little crayfish...",
+
+  "txt_cultiste_peche02_01": "Keep it down, you’re scaring the fish away!",
+
+  "txt_bulle_cult_tem01": "… There’s a witness by the river, he wants us to find them!",
+
+  "txt_bulle_cult_tem02": "The boss wants to remove evidence, I don’t like this.",
+
+  "txt_bulle_cult_tem03": "I’m afraid he’s gone too far this time…",
+
+  "fiche_item35": "BASE FOR DUPLICATION POTION\n\n- Collect yellow clay, I saw some at the construction site.\n\n- Collect purple clay, you’ll find some upstream by the river.\n\n- Get water from the river (where the algae are, it tastes better).\n\nPour the algae-flavored water into the cauldron and mix in the 2 [i][b]combined[/b][/i] clays.\n\nTHE BASE IS READY",
+
+  "fiche_item05": "CIFOR RECIPE\n\n- One [i][b]blue mushroom[/b][/i], it grows in damp dungeon corners.\n\n- One [i][b]fire bulb[/b][/i], a very rare plant found in undergrowth.\n\n- A bit of [i][b]alcohol[/b][/i]\n\nGrind the bulb with a pestle to form a [i][b]paste[/b][/i], then gently mix it with the alcohol to obtain [i][b]plastik[/b][/i]. Gently press the blue mushroom into the plastik, and THERE YOU GO. Place the cifor and give the mushroom a little flick before [i][b]scramming[/b][/i].",
+
+  "fiche_item41": "A drawing of a hidden spot. Find the location and dig with [i][b]the shovel[/b][/i] to uncover what’s hidden.\n\n[i][b]The exclamation point will not appear on diggable spots.[/b][/i]",
+
+  "fiche_item42": "A drawing of a hidden spot. Find the location and dig with [i][b]the shovel[/b][/i] to uncover what’s hidden.\n\n[i][b]The exclamation point will not appear on diggable spots.[/b][/i]",
+
+  "fiche_item43": "A drawing of a hidden spot. Find the location and dig with [i][b]the shovel[/b][/i] to uncover what’s hidden.\n\n[i][b]The exclamation point will not appear on diggable spots.[/b][/i]",
+
+  "fiche_item44": "A drawing of a hidden spot. Find the location and dig with [i][b]the shovel[/b][/i] to uncover what’s hidden.\n\n[i][b]The exclamation point will not appear on diggable spots.[/b][/i]",
+
+  "fiche_item46": "GRILLED UMAMI TROUT RECIPE\n\n- One freshly caught [i][b]trout[/b][/i].\n\n- [i][b]Umami crystals[/b][/i]. Umami crystals sometimes form on black rocks, not easy to find.\n\nJust 2 ingredients for the valley’s best recipe! ...Do I really need to write this recipe down? Well, now that I’m at it... Thoroughly coat the trout with the crystals. Then grill it all! Enjoy!\n\nNow I’m getting hungry!",
+
+  "fiche_item22": "It's the old key that Grandma always carries with her. It opens her champion's stash; I should go check around her statue.",
+
+  "fiche_item23": "It's only the handle of a lever. Now I must [i][b]search under the slates[/b][/i], probably in the dungeon.",
+
+  "item01": "GRANDMA’S SWORD",
+
+  "item02": "FLASK",
+
+  "item03": "FROST POWDER",
+
+  "item04": "FROSTED FLASK",
+
+  "item05": "CIFOR RECIPE",
+
+  "item06": "REFLECTIVE SHARD",
+
+  "item07": "OCHRE STONE",
+
+  "item08": "SILVERY STONE",
+
+  "item09": "BROWN STONE",
+
+  "item10": "BROWN POWDER",
+
+  "item11": "OCHRE POWDER",
+
+  "item12": "SILVERY POWDER",
+
+  "item13": "PRISON KEY",
+
+  "item14": "PRISM",
+
+  "item15": "RECONSTITUTED SLATE",
+
+  "item16": "RIGHT SLATE FRAGMENT",
+
+  "item16,5": "LEFT SLATE FRAGMENT",
+
+  "item17": "SLATE I",
+
+  "item17,1": "SLATE II",
+
+  "item17,2": "SLATE III",
+
+  "item17,3": "SLATE IV",
+
+  "item18": "FAILED DUPLICATION POTION",
+
+  "item19": "BLUE MUSHROOM",
+
+  "item20": "FIRE BULB",
+  "item21": "ALCOHOL",
+  "item22": "TEMPLE KEY",
+  "item23": "FIRE PASTE",
+  "item24": "PLASTIK",
+  "item25": "CIFOR",
+  "item26": "BUCKET",
+  "item27": "FILLED BUCKET",
+  "item28": "SHOVEL",
+  "item29": "YELLOW CLAY",
+  "item30": "PURPLE CLAY",
+  "item31": "CLAY MIX",
+  "item32": "DUPLICATION INFUSION",
+  "item32,1": "DUPLIK INFUSION",
+  "item33": "SEEDS",
+  "item34": "CAULDRON",
+  "item35": "DUPLICATION POTION RECIPE",
+  "item36": "MATERIALS PACK",
+  "item37": "GREEN PEARL",
+  "item38": "RED PEARL",
+  "item39": "PURPLE PEARL",
+  "item40": "BLUE PEARL",
+  "item41": "PUZZLE - I -",
+  "item42": "PUZZLE - II -",
+  "item43": "PUZZLE - III -",
+  "item44": "PUZZLE - IV -",
+  "item45": "SIMPLE FISHING ROD",
+  "item46": "GRILLED UMAMI TROUT RECIPE",
+  "item47": "TROUT",
+  "item48": "UMAMI CRYSTALS",
+  "item49": "RAW UMAMI TROUT",
+  "item50": "GRILLED UMAMI TROUT",
+  "item51": "EARTHWORM",
+  "item52": "CENTIPEDE",
+  "item53": "FIREWORM",
+  "item54": "CRAYFISH",
+  "item55": "LAMPREY",
+  "item56": "CATFISH",
+  "item57": "PLECO",
+  "item58": "PIKE",
+  "item59": "CARP",
+  "item60": "STURGEON",
+  "item61": "COELACANTH",
+  "item62": "LEGENDARY FISH",
+  "item63": "SPARE PART",
+  "item64": "LEVER HANDLE",
+  "item65": "FAVORITE ROD",
+  "item66": "GATE KEY",
+  "item67": "CHIEF’S HIDEOUT KEY",
+  "item68": "SLATE",
+  "item69": "LEVER TIP",
+  "item70": "LEVER",
+  "pop_txt": "The alchemist has joined you!",
+
+  "START_MENU_01": "LOAD",
+
+  "START_MENU_02": "LOAD ?",
+
+  "START_MENU_03": "YES",
+
+  "START_MENU_04": "NO",
+
+  "START_MENU_05": "RESUME",
+
+  "START_MENU_06": "OPTIONS",
+
+  "START_MENU_07": "TITLE SCREEN",
+
+  "START_MENU_08": "TITLE SCREEN ?",
+
+  "TITRE_MENU_01": "PLAY",
+
+  "TITRE_MENU_02": "LOAD",
+
+  "TITRE_MENU_03": "OPTIONS",
+
+  "TITRE_MENU_04": "CREDITS",
+
+  "TITRE_MENU_05": "EXIT",
+
+  "TITRE_PRE_MENU_01": "Українська",
+
+  "TITRE_PRE_MENU_02": "ENGLISH",
+
+  "TITRE_PRE_MENU_02,1": "Українська",
+
+  "TITRE_PRE_MENU_02,2": "Українська",
+
+  "TITRE_PRE_MENU_02,3": "Українська",
+
+  "TITRE_PRE_MENU_02,4": "Українська",
+
+  "TITRE_PRE_MENU_02,5": "Українська",
+
+  "TITRE_PRE_MENU_02,6": "Українська",
+
+  "TITRE_PRE_MENU_02,7": "Українська",
+
+  "TITRE_PRE_MENU_03": "FULLSCREEN",
+
+  "TITRE_PRE_MENU_04": "WINDOWED",
+
+  "TITRE_PRE_MENU_05": "NEXT",
+
+  "OPTIONS_01": "LANGUAGES :",
+
+  "OPTIONS_02": "FRANCAIS",
+
+  "OPTIONS_03": "ENGLISH",
+
+  "OPTIONS_04": "MUSIC VOLUME",
+
+  "OPTIONS_05": "EFFECTS VOLUME",
+
+  "OPTIONS_06": "BRIGHTNESS",
+
+  "OPTIONS_07": "CONTRAST",
+
+  "OPTIONS_08": "GAMMA",
+
+  "OPTIONS_09": "BACK",
+
+  "OPTIONS_10": "DEFAULT VALUES",
+
+  "inventaire_01": "use",
+
+  "inventaire_02": "combine",
+
+  "inventaire_03": "details",
+
+  "choix_renard_01": "Talk",
+
+  "choix_renard_02": "Help",
+
+  "choix_renard_03": "Save",
+
+  "Credit01": "[i][b]TO BE CONTINUED,[/b][/i]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[i][b]A game by[/b][/i] David Musique\n\n\n\n\n\n\n\n[i][b]Musics :[/b][/i]\n\nTitles: Adventure, Dungeons-And-Dragons, ForestWalk, Now we ride, Wintersong\n\nby Alexander Nakarada\n\n\n\n\n[i][b]Sounds :[/b][/i]\n\nby DennisH18, freesound_community, floraphonicn, SoundsForYou, dffdv, FxProSound, LordSonny, Alice_soundz, DavidDumaisAudio via Pixabay\n\nSons additionnels : Joseph SARDIN - LaSonotheque.org\n\n\n\n\n[i][b]Testers :[/b][/i]\n\nArthur Grauby\nChloé Gomez\nClara\nEmeline Cordier\nFlorent\nGuillaume Letourneur\nLaura\nMartin\nNicolas\nThomas Cailliez\nVictor Chelon\nWilliam\n\n\n\n\n[i][b]Acknowledgments :[/b][/i]\n\nThank you, Chloé, for your daily support.<3\n\nThank you, Victor, for helping me get started with coding!\n\nThanks to the testers who played along and put the game through its paces!\n\nA huge thank you to all my loved ones and friends who have always been enthusiastic about Braise!\n\n\n\n\n\n\n\n\n[i][b]THANK YOU FOR PLAYING <3[/b][/i]",
+
+  "STOP": "STOP",
+
+  "STOP2": "STOP2",
+
+  "STOP3": "STOP3",
+
+  "STOP4": "STOP4",
+
+  "usefull": "[b][/b],[i][b][/b][/i],[i][/i],\n"
+}
